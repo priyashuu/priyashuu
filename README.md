@@ -2,7 +2,6 @@
 <h3 align="start"></h3>
 
 # 💫 About Me:
-- 👋 Hi, I’m @priyashuu
 - 🔭 I'm a Front-End Web developer
 - 👀 I’m interested in React, animations, and learning new things.
 - 🌱 I’m currently learning advanced JavaScript frameworks and game design principles.
