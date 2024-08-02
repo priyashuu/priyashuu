@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Priya Rani</h1> 
+<h3 align="start"></h3>
+
+# 💫 About Me:
 - 👋 Hi, I’m @priyashuu
 - 🔭 I'm a Front-End Web developer
 - 👀 I’m interested in React, animations, and learning new things.
