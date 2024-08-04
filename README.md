@@ -5,6 +5,8 @@
 - 🔭 I'm a Front-End Web developer
 - 👀 I’m interested in React, animations, and learning new things.
 - 🌱 I’m currently learning advanced JavaScript frameworks and game design principles.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> Contributing to some exciting open source project have been always fun .
+
 - 💞️ I’m looking to contribute to open source and participate in hackathons.
 - 📫 How to reach me: codewithpriyaa@gmail.com
 - 😄 Pronouns: She/Her
