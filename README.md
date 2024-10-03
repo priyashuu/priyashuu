@@ -25,7 +25,8 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
   
 </div>
-
+## Hacktoberfest Badges 🪶
+<img src="holopin.io/@priyaashu" />
 
 
 
