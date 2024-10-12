@@ -27,3 +27,10 @@
 </div>
 
 
+ [![An image of @priyaashu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyaashu)](https://holopin.io/@priyaashu)
+
+
+
+
+
+
