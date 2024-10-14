@@ -30,7 +30,10 @@
 
  [![An image of @priyaashu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyaashu)](https://holopin.io/@priyaashu)
 
-
+<b>📊GitHub Stats:</b>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyashuu&theme=dark&hide_border=false" height="140px"  style="min-width: 200px"> <img src="https://github-readme-stats.vercel.app/api?username=priyashuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140px"  style="min-width: 200px" >  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyashuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140px"    style="min-width: 200px">
+</div>
 
 
 
