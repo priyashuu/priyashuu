@@ -64,7 +64,7 @@
  <table align="center">
   <tr>
     <td align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyashuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140px"    style="min-width: 200px">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyashuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  style="min-width: 200px">
     </td>
   
     
