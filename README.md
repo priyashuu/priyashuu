@@ -61,6 +61,17 @@
 <div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" />CONTRIBUTIONS</h1>
  </div>
+ <table align="center">
+  <tr>
+    <td align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyashuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140px"    style="min-width: 200px">
+    </td>
+    <td align="center">
+       <img src="https://github-readme-stats.vercel.app/api?username=priyashuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140px"  style="min-width: 200px" > 
+    </td>
+    
+  </tr>
+</table> 
  <td align="center">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyashuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140px"    style="min-width: 200px">
     </td>
