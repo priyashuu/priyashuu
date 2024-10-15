@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Priya Rani</h1> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=HI+%F0%9F%91%8B+!+;I+AM+PRIYA+RANI+%F0%9F%92%BB;DEVOPS;OPEN+SOURCE;)](https://git.io/typing-svg)
+
+
+![](https://github.com/priyashuu/priyashuu/blob/main/github%20readme%20profile.gif)
 <h3 align="start"></h3>
 
 # 💫 About Me:
