@@ -5,7 +5,7 @@
 ![](https://github.com/priyashuu/priyashuu/blob/main/github%20readme%20profile.gif)
 <h3 align="start"></h3>
 
-# 💫 About Me:
+# 💫 About Me: 
 - 🔭 I'm a Front-End Web developer
 - 👀 I’m interested in React, animations, and learning new things.
 - 🌱 I’m currently learning advanced JavaScript frameworks.
