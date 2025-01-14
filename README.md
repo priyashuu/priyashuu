@@ -16,6 +16,8 @@
 - ⚡ Fun fact: I can be a bored  and funny person at the same time, and I like memes 😄 and cold coffee ☕️.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyaashu)
+[![X](https://img.shields.io/badge/X-%230077B5.svg?logo=linkedin&logoColor=white)](https://x.com/priyaashu640132)
+
 
 ### GSSOC(24) EXTD Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
