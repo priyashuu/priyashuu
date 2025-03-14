@@ -7,12 +7,10 @@
 <h3 align="start"></h3>
 
 # 💫 About Me: 
-- 🔭 I'm a Mern Stack developer
-- 👀 I’m interested in React, animations, and learning new things.
-- 🌱 I’m currently learning advanced JavaScript frameworks.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> Contributing to some exciting open source project have been always fun .
-
-- 💞️ I’m looking to contribute to open source and participate in hackathons.
+- 🔭 I'm a **MERN Stack Developer** passionate about crafting **modern, responsive, and interactive web applications**.
+- 👀 I’m interested in **React, animations, Three.js, and exploring new technologies**.  
+- 🌱 Currently diving deep into **advanced JavaScript frameworks** & **performance optimization**.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> Actively looking to **collaborate on open source & participate in hackathons**.  
 - [<img src="https://media4.giphy.com/media/aOften89vRbG/giphy.webp?cid=790b7611b8u15z3v5x6n9xu5yjax6f1v59zaz05qtt68w3xw&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="25px" height="25" >](codewithpriyaa@gmail.com) How to reach me: codewithpriyaa@gmail.com
 
 - 😄 Pronouns: She/Her
