@@ -18,6 +18,14 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyaashu)
 [![X](https://img.shields.io/badge/X-%230077B5.svg?logo=twitter&logoColor=black)](https://x.com/priyaashu640132)
+---
+### **Tech Stack & Tools**  🚀
+🔹 **Frontend:** `React.js` `Next.js` `Tailwind CSS` `Framer Motion`  
+🔹 **Backend:** `Node.js` `Express.js` `MongoDB`  
+🔹 **Other Skills:** `Git` `Redux` `Docker`  
+🔹 **Currently Learning:** `Blockchain` `Web3` `AI-powered Apps`  
+
+---
 
 
 ### GSSOC(24) EXTD Badges 🪶
