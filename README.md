@@ -9,7 +9,7 @@
 # 💫 About Me: 
 - 🔭 I'm a **MERN Stack Developer** passionate about crafting **modern, responsive, and interactive web applications**.
 - <img src="https://media4.giphy.com/media/l0MYuxp3Rjlrka8mY/200.webp?cid=790b76115esq03inj9skqdxeo4sqqlhkuuqgyswvnfftaaqz&ep=v1_gifs_search&rid=200.webp&ct=g" width='18px' height='18px'> I’m interested in **React, animations, Three.js, and exploring new technologies**. 
-- 🌱 Currently diving deep into **advanced JavaScript frameworks** & **performance optimization**.  
+- <img src="https://media2.giphy.com/media/PApW98sUsCNU3owAMg/giphy.webp?cid=790b7611zesvc575x2ottodr7glkd95czz1xljh6i2lz8gud&ep=v1_gifs_search&rid=giphy.webp&ct=g " width='18px' height='18px'> Currently diving deep into **advanced JavaScript frameworks** & **performance optimization**.  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> Actively looking to **collaborate on open source & participate in hackathons**.  
 - [<img src="https://media4.giphy.com/media/aOften89vRbG/giphy.webp?cid=790b7611b8u15z3v5x6n9xu5yjax6f1v59zaz05qtt68w3xw&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="25px" height="25" >](codewithpriyaa@gmail.com) How to reach me: codewithpriyaa@gmail.com
 
