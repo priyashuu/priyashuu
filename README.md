@@ -15,9 +15,7 @@
 
 - <img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh3ZDNiMTA0MjJnZm85MXpudXQwemRuMGh0bWl1MWFhaXM4am5tciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kaq6GnxDlJaBq/giphy.webp" width='25px' height='25px'> Pronouns: She/Her
 - <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2I5OGpkb2hpZ25qNnhyaTc2YjZpc3A1dmxtZGprMnI0Z2J2OTlodiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fu3OjBQiCs3s0ZuLY3/giphy.webp' width='25px' height='18px'> Fun fact: I can be a bored  and funny person at the same time, and I like memes 😄 and cold coffee ☕️.
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyaashu)
-[![X](https://img.shields.io/badge/X-%230077B5.svg?logo=twitter&logoColor=black)](https://x.com/priyaashu640132)
+
 ---
 ### **Tech Stack & Tools**  🚀
 🔹 **Frontend:** `React.js` `Next.js` `Tailwind CSS` `Framer Motion`  
@@ -26,6 +24,19 @@
 🔹 **Currently Learning:** `Blockchain` `Web3` `AI-powered Apps`  
 
 ---
+<div align="center">
+
+<div align="center">
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyaashu/) &nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1171471184475475989) &nbsp;
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/priyaashuu) &nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?logo=leetcode&logoColor=white)](https://leetcode.com/u/priyashuu/) &nbsp;
+[![Commudle](https://img.shields.io/badge/Commudle-0B5E8E?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIxMjAwIiB3aWR0aD0iMTIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI2MDAiIGN5PSI2MDAiIHI9IjQwMCIvPjwvc3ZnPg==)](https://www.commudle.com/users/PriyaAshu)
+
+</div>
 
 
 ### GSSOC(24) EXTD Badges 🪶
@@ -84,6 +95,8 @@
   <img src="https://img.shields.io/github/stars/priyashuu?label=Stars&style=social">
   <img src="https://komarev.com/ghpvc/?username=priyashuu&color=blue&style=flat-square">
 </p>
+<div align="center">
 
  ### 🔗 **Let’s Build Something Cool Together! 🚀🔥**
+ </div>
 
