@@ -14,7 +14,7 @@
 - [<img src="https://media4.giphy.com/media/aOften89vRbG/giphy.webp?cid=790b7611b8u15z3v5x6n9xu5yjax6f1v59zaz05qtt68w3xw&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="25px" height="25" >](codewithpriyaa@gmail.com) How to reach me: codewithpriyaa@gmail.com
 
 - <img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh3ZDNiMTA0MjJnZm85MXpudXQwemRuMGh0bWl1MWFhaXM4am5tciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kaq6GnxDlJaBq/giphy.webp" width='25px' height='25px'> Pronouns: She/Her
-- <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2I5OGpkb2hpZ25qNnhyaTc2YjZpc3A1dmxtZGprMnI0Z2J2OTlodiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fu3OjBQiCs3s0ZuLY3/giphy.webp' width='25px' height='18px'> Fun fact: I can be a bored  and funny person at the same time, and I like memes 😄 and cold coffee ☕️.
+- <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2I5OGpkb2hpZ25qNnhyaTc2YjZpc3A1dmxtZGprMnI0Z2J2OTlodiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fu3OjBQiCs3s0ZuLY3/giphy.webp' width='25px' height='18px'> Fun fact: I can be a bored  and funny person at the same time
 
 ---
 ### **Tech Stack & Tools**  🚀
